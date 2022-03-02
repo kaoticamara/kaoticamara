@@ -1,6 +1,6 @@
 - 👋 Hi, I’m amara.
 - 👀 I’m interested in gaming, music, and art.
-- 🌱 I’m currently learning HTML and japanese.
+- 🌱 I’m currently learning HTML, HTML5 and japanese.
 - 💞️ I’m not looking to collaborate just yet.
 - 📫 Reach me on twitter @kaoticamara
 <!---
